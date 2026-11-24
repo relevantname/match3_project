@@ -1,0 +1,1 @@
+- Window->Grid Editor 'ü kullanarak level içerisindeki grid yapısı değiştirilebiliyor.
